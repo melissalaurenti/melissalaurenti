@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hey, I'm Melissa 👋
 
-<!--
-**melissalaurenti/melissalaurenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in Italy & Germany  
+💻 Full-Stack Web Developer  
+🚀 Currently working on **NEXUM** and **LunchIn**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+
+I build modern web applications with a focus on usability and clean design.
+
+Currently growing my freelance career and open for new opportunities.
+
+💼 Open to freelance opportunities and collaborations.
+
+---
+
+## 🚀 Projects
+
+### 🌐 NEXUM  
+Privacy-first platform to discover real-world events.  
+👉 [View Project](https://github.com/your-link)
+
+---
+
+### 🥗 LunchIn  
+A platform for business networking and meaningful professional connections.  
+👉 (coming soon)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML, CSS, Tailwind  
+- JavaScript  
+
+**Backend**
+- Ruby on Rails  
+- MVC architecture  
+- REST APIs  
+
+**Database**
+- SQL  
+- Active Record (ORM)  
+
+**Tools & Deployment**
+- Git & GitHub  
+- Command Line  
+- App deployment  
+
+**AI**
+- OpenAI API  
+- RAG basics  
+
+---
+
+## 🤝 Let’s connect
+
+- LinkedIn: www.linkedin.com/in/melissa-laurenti-aa7791339 
+- Email: melissa.laurenti@outlook.com  
