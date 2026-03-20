@@ -20,7 +20,7 @@ Currently growing my freelance career and open for new opportunities.
 
 ### 🌐 NEXUM  
 Privacy-first platform to discover real-world events.  
-👉 [View Project](https://github.com/your-link)
+👉 [View Project](https://github.com/melissalaurenti/NEXUM)
 
 ---
 
