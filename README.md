@@ -26,7 +26,7 @@ Privacy-first platform to discover real-world events.
 
 ### 🥗 LunchIn  
 A platform for business networking and meaningful professional connections.  
-👉 (coming soon)
+👉 [View Project](https://github.com/melissalaurenti/LunchIn-Italy)
 
 ---
 
