@@ -1,8 +1,7 @@
 # Hey, I'm Melissa 👋
 
-🌍 Based in Italy & Germany  
 💻 Full-Stack Web Developer  
-🚀 Currently working on **NEXUM** and **LunchIn**  
+🚀 Currently working on **NEXUM** and **LunchIn - Italy**  
 
 ---
 
